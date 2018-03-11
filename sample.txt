@@ -1,2 +1,5 @@
 1)git inti ---creates git repository
 2)touch 'filename'---creates file in the  current git directory.
+3)git add
+4)git status
+5)git commit
