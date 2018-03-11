@@ -1,2 +1,3 @@
 1)git inti ---creates git repository
 2)touch 'filename'---creates file in the  current git directory.
+6)nagendra change
